@@ -17,4 +17,12 @@
 -- Tailwind was used for styling.
 
 
+<!-- Description APP -->
+
+-- APP can create, edit and remove contacts 
+
+-- APP can search contacts
+
+-- APP saves contacts with localStore
+
 
