@@ -1,4 +1,4 @@
-import { TrashIcon } from "@heroicons/react/24/solid";
+import { PhoneIcon, TrashIcon } from "@heroicons/react/24/solid";
 
 import { Contact } from "../types";
 
@@ -21,6 +21,7 @@ const ContactCard = ({ contact, onRemove, onEdit }: ContactCardProps) => {
           {contact.firstName} {contact.lastName}
         </span>
         <span className="block text-center text-sm font-semibold text-slate-500">
+          <PhoneIcon className="w-5 h-5 inline-block mr-1" />
           {contact.phoneNumber}
         </span>
       </button>
