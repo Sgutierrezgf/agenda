@@ -11,9 +11,10 @@
 <!-- Information corresponding to the phone book project -->
 
 -- The vite environment was used to create the project.
--- It is developed with React and typescript.
--- Tailwind was used for styling.
-<<<<<<< HEAD
 
-=======
->>>>>>> feature/validationInputs
+-- It is developed with React and typescript.
+
+-- Tailwind was used for styling.
+
+
+
